@@ -1,0 +1,9 @@
+insert into department values('1', 'Хорошая компания');
+insert into department values('2', 'Не очень хорошая компания');
+insert into department values('3', 'Отличная компания');
+insert into employee values('1', '1', NULL, 'Рустен', '50000.00');
+insert into employee values('2', '1', '1', 'Роман', '100000.00');
+insert into employee values('3', '2', '2', 'Ралибон', '30000.00');
+insert into employee values('4', '2', '3', 'Евгений', '25000.00');
+insert into employee values('5', '3', '2', 'Рикен', '40000.00');
+insert into employee values('6', '3', '2', 'Андрей', '45000.00');
